@@ -15,4 +15,4 @@ Como qualquer jogo clássico do Mario, para realizar o efeito de pulo do Mario b
   </a>
 </p>
 
-# <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens![game-mario](https://github.com/LeonardoBig-BSI/game-mario/assets/84250017/a38e3df1-c01e-4b47-8e47-2f03471f0765)
